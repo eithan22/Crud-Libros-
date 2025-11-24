@@ -1,4 +1,4 @@
-﻿namespace Domian
+﻿namespace Domian.Entidades
 {
     public class Libro
     {
