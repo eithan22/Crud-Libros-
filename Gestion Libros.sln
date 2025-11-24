@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistencia", "Persistenci
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{5C58C00F-410B-4B94-802B-21F88B2FF75B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Libros", "Api.Libros\Api.Libros.csproj", "{DEB0DD77-F2C9-4FC1-B107-3DBA35F2D3D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api.Libros\Api.csproj", "{DEB0DD77-F2C9-4FC1-B107-3DBA35F2D3D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domian.Libro", "Domian\Domian.Libro.csproj", "{45C7871B-0A07-4558-AE80-5E99BF994AEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domian", "Domian\Domian.csproj", "{45C7871B-0A07-4558-AE80-5E99BF994AEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication.Libro", "Aplication\Aplication.Libro.csproj", "{0298414D-3957-4D90-BEE6-BCA1CA0FBAAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "Aplication\Aplication.csproj", "{0298414D-3957-4D90-BEE6-BCA1CA0FBAAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia.Libro", "Persistencia\Persistencia.Libro.csproj", "{B6169FD8-2B65-42F8-BAD7-674E5AC6A904}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{B6169FD8-2B65-42F8-BAD7-674E5AC6A904}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
 	ProjectSection(SolutionItems) = preProject
